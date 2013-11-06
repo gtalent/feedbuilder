@@ -1,0 +1,15 @@
+{
+   "HandleIterator": 5,
+   "RecycledHandles": null,
+   "Feeds": {
+      "Feed1": [
+         1
+      ],
+      "Feed2": [
+         2,
+         3,
+         4,
+         5
+      ]
+   }
+}
